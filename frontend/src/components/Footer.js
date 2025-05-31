@@ -80,7 +80,7 @@ export default function Footer() {
           <div>
             <img src={logo} alt=''/>
             <p className='text-[16px] leading-7 font-[400] text-textColor'>
-              Copyright © {year} Developed by Aditya Gangwar all right reserved.
+              Copyright © {year} Developed by Manas Singh all right reserved.
             </p>
             <div className='flex items-center gap-3 mt-4'>
               {socialLinks.map((link, index)=>(
